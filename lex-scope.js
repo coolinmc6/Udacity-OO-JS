@@ -5,5 +5,9 @@ var newSaga = function() {
 		var deed = aDeed();
 		log(hero+deed+foil);
 	}
+	saga();
+	saga();
 };
+newSaga();
+newSaga();
 
