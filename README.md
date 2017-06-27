@@ -44,11 +44,13 @@ obj.fn(3,4);
 
 
 ## Object Decorator Pattern
-
+- Generaly you would use the decorator pattern to functionality to an object that already had some functionality
+- 
 
 
 ## Functional Classes
-
+- Decorator vs. class is that a class builds the object while a decorator edits / adds to the object. A decorator
+needs to be given an object
 
 
 ## Prototypal Classes
